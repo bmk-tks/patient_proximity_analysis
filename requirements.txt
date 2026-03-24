@@ -1,0 +1,6 @@
+streamlit
+plotly
+pandas
+geopandas
+shapely
+requests
